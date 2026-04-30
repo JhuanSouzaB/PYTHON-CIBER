@@ -1,2 +1,2 @@
 # PYTHON-CIBER
-Meu repositório de Python.
+Meu repositório de códigos Python.
